@@ -23,3 +23,11 @@ Tools & Technologies Used :
    -Around 65% of toss-winning teams chose to field first, showing a strong preference for chasing targets
 
    -Spin bowlers and death-over specialists have had a major impact on IPL matches.
+
+   Dashboard : 
+
+   <img width="1318" height="746" alt="Screenshot 2026-07-26 160154" src="https://github.com/user-attachments/assets/ac269605-9802-404d-b683-9b8b7d55fa38" />
+
+   <img width="1321" height="737" alt="Screenshot 2026-07-26 160408" src="https://github.com/user-attachments/assets/ccfd9e38-37e7-4979-8fe4-0f464fdb4729" />
+
+
