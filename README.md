@@ -15,3 +15,11 @@ Tools & Technologies Used :
    -CSV Files – Data source
    
    -Data Modeling – Relationship between matches and deliveries tables
+
+   Insights :
+
+   -Virat Kohli has scored the highest total runs and other top performers include Shikhar Dhawan, David Warner, Rohit Sharma, and Suresh Raina.
+
+   -Around 65% of toss-winning teams chose to field first, showing a strong preference for chasing targets
+
+   -Spin bowlers and death-over specialists have had a major impact on IPL matches.
